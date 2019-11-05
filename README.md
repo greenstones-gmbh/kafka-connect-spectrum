@@ -1,2 +1,2 @@
-# kafka-connect-spectrum
-Kafka Connect connector for Pitney Bowes Spectrum Platform
+# Kafka connector for Pitney Bowes Spectrum Platform
+kafka-connect-spectrum is a Kafka Connector for exchanging data between Kafka and Pitney Bowes Spectrum Platform.
